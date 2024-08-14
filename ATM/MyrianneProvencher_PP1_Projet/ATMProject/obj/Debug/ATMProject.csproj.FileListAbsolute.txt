@@ -1,0 +1,9 @@
+D:\CDI\Cour18\MyrianneProvencher_PP1_Projet\ATMProject\bin\Debug\ATMProject.exe.config
+D:\CDI\Cour18\MyrianneProvencher_PP1_Projet\ATMProject\bin\Debug\ATMProject.exe
+D:\CDI\Cour18\MyrianneProvencher_PP1_Projet\ATMProject\bin\Debug\ATMProject.pdb
+D:\CDI\Cour18\MyrianneProvencher_PP1_Projet\ATMProject\obj\Debug\ATMProject.csproj.AssemblyReference.cache
+D:\CDI\Cour18\MyrianneProvencher_PP1_Projet\ATMProject\obj\Debug\ATMProject.csproj.CoreCompileInputs.cache
+D:\CDI\Cour18\MyrianneProvencher_PP1_Projet\ATMProject\obj\Debug\ATMProject.exe
+D:\CDI\Cour18\MyrianneProvencher_PP1_Projet\ATMProject\obj\Debug\ATMProject.pdb
+D:\CDI\Cour18\MyrianneProvencher_PP1_Projet\ATMProject\obj\Debug\ATMProject.FormATM.resources
+D:\CDI\Cour18\MyrianneProvencher_PP1_Projet\ATMProject\obj\Debug\ATMProject.csproj.GenerateResource.cache
